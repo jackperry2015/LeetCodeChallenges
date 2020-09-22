@@ -1,6 +1,5 @@
 ﻿using LeetCodeChallenges.Easy_Challenges;
 using NUnit.Framework;
-using System.Collections.ObjectModel;
 
 namespace LeetCodeChallenges.Tests
 {

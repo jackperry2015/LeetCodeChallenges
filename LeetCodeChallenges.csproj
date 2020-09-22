@@ -55,16 +55,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Easy_Challenges\MajorityElement.cs" />
+    <Compile Include="Daily_Challenges\MajorityElement.cs" />
     <Compile Include="Easy_Challenges\ReverseInteger.cs" />
     <Compile Include="Easy_Challenges\RunningSum1DArray.cs" />
     <Compile Include="Easy_Challenges\TwoSum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tests\MajorityElement_Tests.cs" />
-    <Compile Include="Tests\ReverseInteger_Tests.cs" />
-    <Compile Include="Tests\RunningSum1DArray_Tests.cs" />
-    <Compile Include="Tests\TwoSum_Tests.cs" />
+    <Compile Include="Tests\Daily_Challenges_Tests\MajorityElement_Tests.cs" />
+    <Compile Include="Tests\Easy_Challenges_Tests\ReverseInteger_Tests.cs" />
+    <Compile Include="Tests\Easy_Challenges_Tests\RunningSum1DArray_Tests.cs" />
+    <Compile Include="Tests\Easy_Challenges_Tests\TwoSum_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
