@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Daily_Challenges\MajorityElement.cs" />
+    <Compile Include="Easy_Challenges\GreatestNumberOfCandy.cs" />
     <Compile Include="Easy_Challenges\IntegerProductAndSumDifference.cs" />
     <Compile Include="Easy_Challenges\ReverseInteger.cs" />
     <Compile Include="Easy_Challenges\RunningSum1DArray.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\Daily_Challenges_Tests\MajorityElement_Tests.cs" />
+    <Compile Include="Tests\Easy_Challenges_Tests\GreatestNumberOfCandy_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\IntegerProductAndSumDifference_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\ReverseInteger_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\RunningSum1DArray_Tests.cs" />
