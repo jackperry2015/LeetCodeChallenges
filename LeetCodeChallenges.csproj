@@ -58,6 +58,7 @@
     <Compile Include="Daily_Challenges\MajorityElement.cs" />
     <Compile Include="Easy_Challenges\GreatestNumberOfCandy.cs" />
     <Compile Include="Easy_Challenges\IntegerProductAndSumDifference.cs" />
+    <Compile Include="Easy_Challenges\NumberOfGoodPairs.cs" />
     <Compile Include="Easy_Challenges\ReverseInteger.cs" />
     <Compile Include="Easy_Challenges\RunningSum1DArray.cs" />
     <Compile Include="Easy_Challenges\ShuffleTheArray.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\Daily_Challenges_Tests\MajorityElement_Tests.cs" />
+    <Compile Include="Tests\Easy_Challenges_Tests\NumberOfGoodPairs_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\ShuffleTheArray_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\GreatestNumberOfCandy_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\IntegerProductAndSumDifference_Tests.cs" />
