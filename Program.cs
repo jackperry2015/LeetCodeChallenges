@@ -7,7 +7,8 @@ namespace LeetCodeChallenges
     {
         static void Main(string[] args)
         {
-
+            ShuffleTheArray sh = new ShuffleTheArray();
+            sh.Shuffle(new int[] { 1, 1, 2, 2 }, 2);
         }
     }
 }
