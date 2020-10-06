@@ -65,6 +65,7 @@
     <Compile Include="Easy_Challenges\RunningSum1DArray.cs" />
     <Compile Include="Easy_Challenges\ShuffleTheArray.cs" />
     <Compile Include="Easy_Challenges\TwoSum.cs" />
+    <Compile Include="Medium_Challenges\SubrectangleQueries.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\Daily_Challenges_Tests\MajorityElement_Tests.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="Tests\Easy_Challenges_Tests\ReverseInteger_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\RunningSum1DArray_Tests.cs" />
     <Compile Include="Tests\Easy_Challenges_Tests\TwoSum_Tests.cs" />
+    <Compile Include="Tests\Medium_Challenges\SubrectangleQueries_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
